@@ -1,6 +1,13 @@
 # 3d-ramen
 
+Ramen bowl, textured 3D model.
+For the file, please contact me by email.
 
+## 🚀 Technologies
+- Blender
+- 3D model
+
+## 📸 Screenshots
 
 <img width="905" height="575" alt="image" src="https://github.com/user-attachments/assets/31279e69-5cc2-4c90-89a2-35d4d16af69f" />
 
